@@ -1,6 +1,6 @@
 # Ignite-Dev Intern Task
 
->> **Disclaimer:** Kubernetes was to be used to deploy this project, but since I am still to learn Kubernetes, I decided to stick with Amazon ECS which I am already familiar with.
+> **Disclaimer:** Kubernetes was to be used to deploy this project, but since I am still to learn Kubernetes, I decided to stick with Amazon ECS which I am already familiar with.
 
 
 ## Project Structure
